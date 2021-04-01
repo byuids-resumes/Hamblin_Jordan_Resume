@@ -30,11 +30,6 @@ __Research and Evaluation Specialist__, BYU-I
 
 `2015-2017`
 __Service Missionary__, England
-- Conducted training meetings for other volunteers
-- Was a leader for a group of 8 volunteeers
-- Facilitated one on one training in communication skills
-- Resolved conflicts between other volunteers
-- Coordinated service projects
 
 
 <!-- ### Footer
