@@ -13,22 +13,22 @@ title: Jordan Hamblin
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Education   
 
-`Expected 2022`
-__Brigham Young University - Idaho__, Rexburg, ID
-- B.S. degree candidate, Software Engineering
-- 3.8 Major GPA
+`Expected 2022`   
+__Brigham Young University - Idaho__, Rexburg, ID   
+- B.S. degree candidate, Software Engineering   
+- 3.8 Major GPA   
 
-## Service and Work History
+## Service and Work History   
 
-`2019-Present`
-__Research and Evaluation Specialist__, BYU-I
--Collect and Analyze data for Brigham Young University-Idaho
--Use tools such as Excel, PowerBI, and Qualtrics
+`2019-Present`   
+__Research and Evaluation Specialist__, BYU-I   
+-Collect and Analyze data for Brigham Young University-Idaho   
+-Use tools such as Excel, PowerBI, and Qualtrics   
 
 
-`2015-2017`
+`2015-2017`   
 __Service Missionary__, England
 
 
