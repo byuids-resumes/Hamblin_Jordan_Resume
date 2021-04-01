@@ -20,7 +20,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - B.S. degree candidate, Software Engineering   
 - 3.8 Major GPA   
 
-## Service and Work History   
+## Experience   
 
 `2019-Present`   
 __Research and Evaluation Specialist__, BYU-I   
