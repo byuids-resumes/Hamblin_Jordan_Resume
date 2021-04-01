@@ -24,8 +24,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `2019-Present`   
 __Research and Evaluation Specialist__, BYU-I   
--Collect and Analyze data for Brigham Young University-Idaho   
--Use tools such as Excel, PowerBI, and Qualtrics   
+- Collect and Analyze data for Brigham Young University-Idaho   
+- Use tools such as Excel, PowerBI, and Qualtrics   
 
 
 `2015-2017`   
